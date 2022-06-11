@@ -49,8 +49,8 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
 
 **• Sound Detection**
 - Easily make your AI aware of sounds, make your AI detect sounds fast.
-**
-• Optimized AI**
+
+**• Optimized AI**
 - With tag-checking AI scripts, don't lose any performance in your game.
 
 **• Built-in Sounds & Events**
