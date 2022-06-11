@@ -98,3 +98,8 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
   [Playmaker]
   
   [Easy Save 3]
+  
+  ---
+  Why Is This Free / Where Can I Use This?
+  #### Our advanced AI system can be used anywhere, except selling it; by crediting the author (Darking Assets).
+  #### It is free because we want to see how our AI improves by the help of tons of talented developers out there!
