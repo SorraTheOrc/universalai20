@@ -101,5 +101,6 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
   
   ---
   Why Is This Free / Where Can I Use This?
-  #### Our advanced AI system can be used anywhere, except selling it; by crediting the author (Darking Assets).
-  #### It is free because we want to see how our AI improves by the help of tons of talented developers out there!
+  
+  #### You may use our AI system in any project as long as you credit us (Darking Assets). However, you may not resell it.
+  #### It's free because we want to watch how our AI evolves with the help of a large number of brilliant developers!
