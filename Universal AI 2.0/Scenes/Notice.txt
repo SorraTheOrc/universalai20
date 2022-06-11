@@ -1,0 +1,4 @@
+Darking Asset Notice:
+
+The demo assets are related to the asset by Unity Technologies from The 3D Game Kit. 
+These are only used for demonstration purposes. Permission to use said assets is stated in here: https://support.unity.com/hc/en-us/articles/206336915-Can-I-submit-an-asset-that-uses-Unity-Standard-Assets-
