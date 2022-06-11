@@ -104,7 +104,7 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
 -----
 # -How To Install-
 
-#### 1) Install the [UNITYPACKAGE]("https://drive.google.com/drive/folders/1zDM_J3kao-TTl479YzFwGleA5dbRw074?usp=sharing") by clicking on the blue text. 
+#### 1) Install the [UNITYPACKAGE](https://drive.google.com/drive/folders/1zDM_J3kao-TTl479YzFwGleA5dbRw074?usp=sharing) by clicking on the blue text. 
 #### 2) Import the installed unitypackage in to your project by dragging & dropping it.
 #### 3) Join our discord server to ask the community, talk with eachother and share your feedback!
 
