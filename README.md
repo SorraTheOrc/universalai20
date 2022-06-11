@@ -8,6 +8,7 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
 [Discord |](https://discord.gg/bvY62aeQ3f)
 [FAQ |](https://darking-studios.gitbook.io/universal-ai-2.0/faq)
 [Tutorials](https://www.youtube.com/playlist?list=PL7czKX9E5eyl46bVrMhKuZ7u1fWwm9KTG)** ]
+-
 
 [📌Main Features] (And Much More)
 
