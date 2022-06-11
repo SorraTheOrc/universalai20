@@ -1,5 +1,5 @@
 [<img src="https://i.ytimg.com/vi/Jv5w2MFV7Y4/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Jv5w2MFV7Y4)
-<img src="https://i.ibb.co/JvtJTTG/7776-A0-D5-5477-4309-B5-E9-576-BAE59748-D.jpg" width="50%">
+<img src="https://i.ibb.co/JvtJTTG/7776-A0-D5-5477-4309-B5-E9-576-BAE59748-D.jpg" width="45%">
 
 # -Universal AI 2.0-
 ***The official page of the Universal AI 2.0 asset!***
