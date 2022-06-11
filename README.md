@@ -1,4 +1,4 @@
-[![Watch the video](https://www.youtube.com/watch?v=Jv5w2MFV7Y4)
+[<img src="https://i.ytimg.com/vi/Jv5w2MFV7Y4/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Jv5w2MFV7Y4)
 
 # -Universal AI 2.0-
 ***The official page of the Universal AI 2.0 asset!***
