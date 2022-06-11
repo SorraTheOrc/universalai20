@@ -1,5 +1,15 @@
 [<img src="https://i.ytimg.com/vi/Jv5w2MFV7Y4/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Jv5w2MFV7Y4)
 <img src="https://i.ibb.co/JvtJTTG/7776-A0-D5-5477-4309-B5-E9-576-BAE59748-D.jpg" width="40%">
+---
+# -How To Install-
+
+#### 1) Install the [UNITYPACKAGE](https://drive.google.com/drive/folders/1zDM_J3kao-TTl479YzFwGleA5dbRw074?usp=sharing) by clicking on the blue text. 
+#### 2) Import the installed unitypackage in to your project by dragging & dropping it.
+#### 3) Join our discord server to ask the community, talk with eachother and share your feedback!
+
+(You can also download the files inside this repositery to install the asset manually too!)
+
+---
 
 # -Universal AI 2.0-
 ***The official page of the Universal AI 2.0 asset!***
@@ -102,11 +112,5 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
 -**Foot IK** isn't included in the asset, but it can be combined with other assets.
 
 -----
-# -How To Install-
 
-#### 1) Install the [UNITYPACKAGE](https://drive.google.com/drive/folders/1zDM_J3kao-TTl479YzFwGleA5dbRw074?usp=sharing) by clicking on the blue text. 
-#### 2) Import the installed unitypackage in to your project by dragging & dropping it.
-#### 3) Join our discord server to ask the community, talk with eachother and share your feedback!
-
-(You can also download the files inside this repositery to install the asset manually too!)
 
