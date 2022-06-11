@@ -10,7 +10,7 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
 [Tutorials](https://www.youtube.com/playlist?list=PL7czKX9E5eyl46bVrMhKuZ7u1fWwm9KTG)** ]
 -
 
-[📌Main Features] (And Much More)
+**[📌Main Features] (And Much More)**
 
 **• Customizable**
 - Easy to add custom actions, behaviors & animations with examples.
@@ -57,3 +57,43 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
 **• Built-in Sounds & Events**
 - Easily add sounds to your AI, listen to tons of built-in events for your AI.
 
+
+..
+
+
+**[📜Ready Integrations] (Requires Only 1 Click)**
+
+  [HQ FPS Template]
+  [Survival Template PRO]
+  
+  [Any Invector Template]
+  
+  [NEO FPS]
+  
+  [Game Kit Controller]
+  
+  [MMFPSE]
+  
+  [Any Opsive Controller]
+  
+  [Horror FPS Kit]
+  
+  [A* Pathfinding Pro Project]
+  
+  [Playmaker]
+  
+  [Easy Save 3]
+
+
+..
+
+
+**[🛑Limitations] (Read Before Buying)**
+
+-**Demo scenes** don't support HDRP or URP. But the system can work with both.
+
+-**Universal AI 2.0** isn't a tree behavior designer system.
+
+-**Dismemberment** requires pre-cut limb meshes to work properly.
+
+-**Foot IK** isn't included in the asset, but it can be combined with other assets.
