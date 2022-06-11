@@ -96,21 +96,3 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
   [Playmaker]
   
   [Easy Save 3]
-
-
-...
-
-
-**[🛑Limitations] (Read Before Buying)**
-
--**Demo scenes** don't support HDRP or URP. But the system can work with both.
-
--**Universal AI 2.0** isn't a tree behavior designer system.
-
--**Dismemberment** requires pre-cut limb meshes to work properly.
-
--**Foot IK** isn't included in the asset, but it can be combined with other assets.
-
------
-
-
