@@ -1,5 +1,5 @@
 [<img src="https://i.ytimg.com/vi/Jv5w2MFV7Y4/maxresdefault.jpg" width="50%">](https://www.youtube.com/watch?v=Jv5w2MFV7Y4)
-<img src="https://i.ibb.co/JvtJTTG/7776-A0-D5-5477-4309-B5-E9-576-BAE59748-D.jpg" width="45%">
+<img src="https://i.ibb.co/JvtJTTG/7776-A0-D5-5477-4309-B5-E9-576-BAE59748-D.jpg" width="40%">
 
 # -Universal AI 2.0-
 ***The official page of the Universal AI 2.0 asset!***
@@ -61,7 +61,7 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
 - Easily add sounds to your AI, listen to tons of built-in events for your AI.
 
 
-..
+...
 
 
 **[📜Ready Integrations] (Requires Only 1 Click)**
@@ -88,7 +88,7 @@ Universal AI allows game developers to create **AAA**-quality AI characters in a
   [Easy Save 3]
 
 
-..
+...
 
 
 **[🛑Limitations] (Read Before Buying)**
