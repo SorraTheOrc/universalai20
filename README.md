@@ -14,6 +14,8 @@
 # -Universal AI 2.0-
 ***The official page of the Universal AI 2.0 asset!***
 
+***[Showcase Video](https://www.youtube.com/watch?v=Jv5w2MFV7Y4)***
+
 Universal AI allows game developers to create **AAA**-quality AI characters in a few minutes. The system allows users to extend the system, understand the code; add features, disable features, and **much** more.
   
 [ **[Documentation |](https://darking-studios.gitbook.io/universal-ai-2.0/)
